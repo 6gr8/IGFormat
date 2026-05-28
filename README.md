@@ -38,8 +38,6 @@
 - Embed Reels as Videos
 - Reel Timestamps
 
----
-
 ## Stories
 - Download Stories in Full Quality
 - Watch Stories Anonymously
@@ -51,8 +49,6 @@
 - Custom Story Fonts
 - Custom Story Background Color
 
----
-
 ## Confirmation
 - Follow Confirmation
 - Refresh Explore Confirmation
@@ -62,8 +58,6 @@
 - Repost Confirmation
 - Reaction Confirmation
 - Like Confirmation
-
----
 
 ## Hide
 - Hide Ads in Stories
@@ -75,8 +69,6 @@
 - Hide Group Chat Creation
 - Hide Call Buttons
 
----
-
 ## Interface
 - Display Full Follower Count
 - Format Likes & Comments & Shares & Views
@@ -86,15 +78,11 @@
 - Follow Status Checker
 - Unlock Avatars of Private Accounts
 
----
-
 ## Music
 - Audio URL Detection
 - Download Saved Audio
 - Download Music from Notes
 - Play Songs in Background
-
----
 
 ## Tab Bar
 - Edit Tab Bar Layout
@@ -104,8 +92,6 @@
 - Hide Camera Tab
 - Hide Reels Tab
 
----
-
 ## Automation
 - Auto Following
 - Auto Repost on Like
@@ -113,8 +99,6 @@
 - Auto Clear Cache Daily
 - Auto Re-Enable Anonymous Read
 - Automatic IGFormat Updates Check
-
----
 
 ## Account Logger
 - Visited Profiles Logger
