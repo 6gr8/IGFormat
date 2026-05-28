@@ -22,14 +22,10 @@
 - Upload Files in DMs
 - Custom Name Color & Font
 
----
-
 ## Instant
 - Upload Full Quality Images
 - Take Screenshots & Record Videos
 - Delete Instant Cache
-
----
 
 ## Reels & Media
 - Download Reels in Full Quality
@@ -120,10 +116,8 @@
 
 ---
 
-## 👤 Account Logger
+## Account Logger
 - Visited Profiles Logger
-
----
 
 ## Support
 - [Telegram](https://t.me/DENS0R)
