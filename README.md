@@ -106,6 +106,14 @@
 ## Account Logger
 - Visited Profiles Logger
 
+## Notifications
+- Disable notifications for direct
+- Stop notifications for app
+- Mute notification sound
+- Hide body of message
+- Hide sender name
+- Custom color of sender name
+
 ## Support
 - [Telegram](https://t.me/DENS0R)
 - [Twitter / X](https://twitter.com/xDensor)
