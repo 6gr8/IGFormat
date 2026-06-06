@@ -114,6 +114,10 @@
 - Hide sender name
 - Custom color of sender name
 
+## Download
+- For jailbroken devices : https://6gr8.github.io/deno.io/
+- For non-jb : [iPAs](https://t.me/DENS0R)
+
 ## Support
 - [Telegram](https://t.me/DENS0R)
 - [Twitter / X](https://twitter.com/xDensor)
