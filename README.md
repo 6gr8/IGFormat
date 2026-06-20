@@ -86,6 +86,7 @@
 - Download Saved Audio
 - Download Music from Notes
 - Play Songs in Background
+- Music library : Download any music and play them anytime, even without internet
 
 ## Tab Bar
 - Edit Tab Bar Layout
@@ -113,6 +114,10 @@
 - Hide body of message
 - Hide sender name
 - Custom color of sender name
+
+## Instagram plus
+- Instagram Plus features : Preview all Instagram Plus features in the UI before subscribing
+
 
 ## Download
 - For jailbroken devices : https://6gr8.github.io/deno.io/
