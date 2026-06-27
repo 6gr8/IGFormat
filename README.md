@@ -24,6 +24,10 @@
 - Voice Recording Preview
 - Upload Files in DMs
 - Custom Name Color & Font
+- Enable folder mode
+- Show only chats moved to folder
+- Enable Hidden mode
+- Hide selected chats from inbox
 
 ## Instant
 - Upload Full Quality Images
@@ -118,6 +122,22 @@
 ## Instagram plus
 - Instagram Plus features : Preview all Instagram Plus features in the UI before subscribing
 
+## Theme
+- Enable OLED theme
+- Make instagram completely black
+- Custom color of instagram 
+- Instagram with ur own color
+- Apply color to alerts
+- Apply color to buttons
+- Apply color to messages 
+- Apply color to liquid-glass bar
+- Apply color to notifications
+
+# Keyboard
+- Custom color of keyboard 
+- Change color of your keyboard 
+- OLED Keyboard 
+- Custom color
 
 ## Download
 - For jailbroken devices : https://6gr8.github.io/deno.io/
